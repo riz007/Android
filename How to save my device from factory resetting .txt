@@ -1,0 +1,10 @@
+It was a very shocking day for me today! I was having a low battery in my Samsung Galaxy device and 
+my apps Turned Off and icons removed after using Ultra Power Saving Mode! So weird! 
+Then this trick saved my life! 
+
+Go into Settings>Application Manager>Disabled Apps
+Touch the "dot dot dot" at the top right and a drop down appears saying 
+"Sort by size" and "Reset app preferences"
+Touch "Reset app preferences" and it resets everything to default preferences.
+
+Thanks google :P 
